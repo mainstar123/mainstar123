@@ -1,4 +1,4 @@
-<h3 align="center"> Sr, AI/ML Full Stack Engineer, MLOps System Designer, Tech Lead </h3>
+<h3 align="center"> Sr, Software Engineer, AI/MLOps System Designer </h3>
 <hr>
 
 
