@@ -1,4 +1,4 @@
-<h3 align="center"> Sr, Software Engineer, AI/MLOps System Designer </h3>
+<h3 align="center"> Sr, Software Engineer, AI/MLOps Specialist </h3>
 <hr>
 
 
