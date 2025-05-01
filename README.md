@@ -1,4 +1,4 @@
-<h3 align="center"> Sr, Software Engineer, AI/MLOps Specialist </h3>
+<h3 align="center"> Sr, Software Engineer, AI/MLOps/Multi-Agent Specialist </h3>
 <hr>
 
 
@@ -63,7 +63,7 @@ Innovative AI/ML Engineer and dynamic Data Scientist providing a diverse range o
 
 ✅ **MLOps**: AWS(AWS SageMaker, Fargate, lambda, S3 Bucket, SQS, VPN), GCP(Vertex AI, GCR, GKE, GCS, pub/sub), Azure(Data Factory, SQL Data Warehouse, Synapse), Cosmos DB, W&B, MLFlow, Comet ML,Qwak, Databricks, Apache Spark, Kafka, Bytewax
 
-✅ **LLM**: OpenAI, Anthropic, Azure, Llama-3, Mistral, Multi-modal LLM(TTS/STT/VST/AST), SDXL, Gemini, Perplexity, RAG, TAG, KAG
+✅ **LLM**: OpenAI, Anthropic, Azure, Llama-3, Mistral, Multi-modal LLM(TTS/STT/VST/AST), SDXL, Gemini, Perplexity, RAG, TAG, KAG, MCP
 
 ✅ **APIs**: Flask, FastAPI
 
